@@ -8,49 +8,46 @@ body{
     margin: 20px;
 }
 .conteudo{
-    background-color: aqua;
+    background-color: #f7f7f7;
     /* height: 600px; */
     text-align: center; 
 }
 
 .coracao{
     position: relative;
-    height: 600px;
+    height: 400px;
+    margin: 100px;
 }
 
 
 .teste{
     width: 50px;
-    height: 25px;
-    margin: 200px;
+    height: 50px;
 	background-color: red;
-	height: 200px;
 	transform: rotate(-45deg);
-	width: 200px;
     position: absolute;
     z-index: 10;
+    margin: 60px;
+    
+
 }
 .esquerda{
     width: 50px;
-    height: 25px;
-    margin: 200px;
+    height: 50px;
+    margin: 40px 0px 0px 80px;
     position: absolute;
 	background-color: red;
-	height: 200px;
     border-radius: 50%;
 	transform: rotate(-45deg);
-	width: 200px;
 }
 .direita{
     width: 50px;
-    height: 25px;
-    margin: 200px;
+    height: 50px;
+    margin: 40px 0px 0px 40px;
     position: absolute;
 	background-color: red;
-	height: 200px;
     border-radius: 50%;
 	transform: rotate(-45deg);
-	width: 200px;
 }
 
 
