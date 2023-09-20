@@ -12,6 +12,6 @@ Objetivos do projeto:
 
 
 Bônus:
-Usar o animation do CSS para melhorar a apresentação do web site.
-Melhorar a dinâmica do site usando JavaScript.
+- Usar o animation do CSS para melhorar a apresentação do web site.
+- Melhorar a dinâmica do site usando JavaScript.
 
