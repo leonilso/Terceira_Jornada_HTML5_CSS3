@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+body{
+    background: #f7f7f7;
+    margin: 20px;
+}
+.conteudo{
+    background-color: aqua;
+    height: 600px;
+    text-align: center;
+    
+}
+
+
+.teste{
+    width: 100px;
+    height: 50px;
+    background-color: red;
+}
+
+/* .teste:hover{
+    animation-name: example 4s infinite;
+} */
+
+
+
+@keyframes example {
+    0% {
+        background-color: red;
+    }
+    20% {
+        background-color: yellow;
+    }
+    40% {
+        background-color: green;
+    }
+    60% {
+        background-color: blue;
+    }
+    80% {
+        background-color: blueviolet;
+    }
+    100% {
+        background-color: red;
+    }
+}
