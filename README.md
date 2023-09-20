@@ -7,8 +7,8 @@ Todos sejam bem-vindos ao meu repositório da terceira jornada de Pensamento Com
 
 Objetivos do projeto:
 
-1 - Criação de uma página estática usando apenas HTML 5.
-2 - Melhorar o estilo do site usando o CSS 3.
+- Criação de uma página estática usando apenas HTML 5.
+- Melhorar o estilo do site usando o CSS 3.
 
 
 Bônus:
