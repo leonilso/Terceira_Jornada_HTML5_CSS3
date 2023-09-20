@@ -11,7 +11,7 @@
 - Melhorar o estilo do site usando o CSS 3.
 
 
-Bônus:
+### Bônus:
 - Usar o animation do CSS para melhorar a apresentação do web site.
 - Melhorar a dinâmica do site usando JavaScript.
 
