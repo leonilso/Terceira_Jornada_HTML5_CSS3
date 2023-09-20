@@ -12,7 +12,7 @@ botao.addEventListener("click", () => {
 teste.addEventListener("mouseover", () =>{
     teste.style.animation = "none"
     setTimeout(() => 
-    teste.style.animation = "example 6s infinite", 5);
+    teste.style.animation = "example 1s infinite", 5);
 });
 
 teste.addEventListener("mouseout", () =>{
