@@ -20,6 +20,8 @@ body{
 .cabecalho{
     background: linear-gradient(to top, #8dbeda, #357599);
     text-align: center;
+    border-bottom: 3px solid #fff;
+
 }
  .menu{
     background: linear-gradient(to bottom, #8dbeda, #357599);
