@@ -37,6 +37,7 @@ body{
 
 .caixa{
     text-align: center;
+    padding: 50px;
 }
 #game-img{
     width: 400px;
