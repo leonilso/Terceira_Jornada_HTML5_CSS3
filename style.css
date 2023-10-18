@@ -16,7 +16,7 @@ body{
 }
 
 .cabecalho{
-    height: 50px;
+    height: 100px;
     background: linear-gradient(to top, #8dbeda, #357599);
     text-align: center;
 }
