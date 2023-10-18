@@ -1,9 +1,3 @@
-body{
-    font-family: sans-serif;
-    background-color: #357599;
-    background: linear-gradient(to bottom, #357599, #67a8cd);
-}
-
 /* palheta de cores: 
 #295872
 #357599
@@ -12,6 +6,14 @@ body{
 #8dbeda
  */
 
+body{
+    font-family: sans-serif;
+    background-color: #357599;
+}
+
+.cabecalho{
+    background: linear-gradient(to top, #67a8cd, #357599);
+}
  .menu{
     background: linear-gradient(to bottom, #67a8cd, #357599);
  }
