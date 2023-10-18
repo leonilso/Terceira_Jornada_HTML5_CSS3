@@ -50,8 +50,13 @@ body{
     transform: scale(1.3);
 }
 .rodape{
+    display: flex;
     text-align: center;
     border-top: 3px solid #fff;
     height: 100px;
     background: linear-gradient(to bottom, #8dbeda, #357599);
+}
+
+#nome{
+    justify-content: center;
 }
