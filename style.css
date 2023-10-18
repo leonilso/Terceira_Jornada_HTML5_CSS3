@@ -1,6 +1,15 @@
 body{
     font-family: sans-serif;
+    background-color: #357599;
 }
+
+/* palheta de cores: 
+#295872
+#357599
+#4292bf
+#67a8cd
+#8dbeda
+ */
 
 .titulo{
     font-size: 40px;
