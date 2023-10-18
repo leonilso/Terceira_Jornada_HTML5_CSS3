@@ -11,6 +11,10 @@ body{
 #8dbeda
  */
 
+ .menu{
+    background: linear-gradient(to bottom, #67a8cd, #357599);
+ }
+
 .titulo{
     font-size: 40px;
 }
