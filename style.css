@@ -23,7 +23,6 @@ body{
 }
  .menu{
     background: linear-gradient(to bottom, #8dbeda, #357599);
-    align-items: center;
  }
 
 .titulo{
@@ -36,7 +35,9 @@ body{
     font-size: 20px;
 }
 
-
+#caixa{
+    align-items: center;
+}
 #game-img{
     width: 400px;
     transition: transform 1s;
