@@ -38,10 +38,10 @@ body{
 
 #game-img{
     width: 400px;
+    transition: transform 1s;
 }
 
 #game-img:hover{
-    animation-duration: 1s;
-    width: 500px;
-    rotate: 10px;
+    transform: scale(1.3), rotate(10px);
+    
 }
