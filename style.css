@@ -39,3 +39,7 @@ body{
 #game-img{
     width: 400px;
 }
+
+#game-img:hover{
+    width: 500px;
+}
