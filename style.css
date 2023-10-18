@@ -16,7 +16,6 @@ body{
 }
 
 .cabecalho{
-    height: 100px;
     background: linear-gradient(to top, #8dbeda, #357599);
     text-align: center;
 }
@@ -25,6 +24,7 @@ body{
  }
 
 .titulo{
+    padding: 20px;
     font-size: 40px;
 }
 
