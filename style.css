@@ -55,8 +55,3 @@ body{
     height: 100px;
     background: linear-gradient(to bottom, #8dbeda, #357599);
 }
-
-#nome{
-    display: flex;
-    justify-content: center;
-}
