@@ -35,6 +35,7 @@ body{
     text-align: justify;
     font-size: 20px;
     margin: 0px 20px 0px 20px;
+    box-shadow: 5px 5px 5px rgba(33, 32, 32, 0.195);
 }
 
 .caixa{
