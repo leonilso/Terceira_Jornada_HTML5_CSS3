@@ -42,6 +42,6 @@ body{
 }
 
 #game-img:hover{
-    transform: scale(1.3), rotate(10px);
+    transform: scale(1.3);
     
 }
