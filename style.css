@@ -23,6 +23,7 @@ body{
 }
  .menu{
     background: linear-gradient(to bottom, #8dbeda, #357599);
+    align-items: center;
  }
 
 .titulo{
