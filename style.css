@@ -16,10 +16,10 @@ body{
 }
 
 .cabecalho{
-    background: linear-gradient(to top, #67a8cd, #357599);
+    background: linear-gradient(to top, #8dbeda, #357599);
 }
  .menu{
-    background: linear-gradient(to bottom, #67a8cd, #357599);
+    background: linear-gradient(to bottom, #8dbeda, #357599);
  }
 
 .titulo{
