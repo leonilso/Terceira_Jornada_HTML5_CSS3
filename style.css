@@ -41,5 +41,7 @@ body{
 }
 
 #game-img:hover{
+    animation-duration: 1s;
     width: 500px;
+    rotate: 10px;
 }
