@@ -12,6 +12,7 @@
 }
 
 
+
 body{
     font-family: sans-serif;
     font-size: 20px;
@@ -28,11 +29,23 @@ body{
     background: linear-gradient(to bottom, #8dbeda, #357599);
  }
 
+
+ h1{
+    background-color: black;
+ }
+
 .titulo{
     padding: 20px;
     font-size: 40px;
     color: white;
+    background-color: rgb(255, 0, 0);
 }
+
+#tituloprincipal{
+    background-color: #8dbeda;
+}
+
+
 
 .paragrafo{
     text-align: justify;
@@ -52,6 +65,7 @@ body{
 
 #game-img:hover{
     transform: rotate(3deg) scale(1.3);
+
 }
 .rodape{
     text-align: center;
