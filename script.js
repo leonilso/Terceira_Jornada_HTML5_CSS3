@@ -7,5 +7,5 @@ imagem.addEventListener('mouseenter', () =>{
 });
 
 imagem.addEventListener('mouseleave', () =>{
-    imagem.style.transform = `rotate(0deg) scale(0.7692)`;
+    imagem.style.transform = `rotate(0deg) scale(1)`;
 });
