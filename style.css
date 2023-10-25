@@ -30,20 +30,20 @@ body{
  }
 
 
- h1{
+ /* h1{
     background-color: black;
- }
+ } */
 
 .titulo{
     padding: 20px;
     font-size: 40px;
     color: white;
-    background-color: rgb(255, 0, 0);
+    /* background-color: rgb(255, 0, 0); */
 }
 
-#tituloprincipal{
+/* #tituloprincipal{
     background-color: #00ff00;
-}
+} */
 
 
 
