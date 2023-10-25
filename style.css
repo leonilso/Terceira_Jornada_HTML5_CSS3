@@ -26,7 +26,7 @@ body{
 
 }
  .menu{
-    height: auto;
+    height: 600px;
     background: linear-gradient(to bottom, #8dbeda, #357599);
  }
 
