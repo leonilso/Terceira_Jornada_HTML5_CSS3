@@ -59,7 +59,7 @@ body{
 }
 #game-img{
     width: 400px;
-    /* transition: transform 1s; */
+    transition: transform 1s;
     box-shadow: 10px 10px 10px rgba(33, 32, 32, 0.531);
 }
 
