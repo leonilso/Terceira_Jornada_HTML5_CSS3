@@ -1,6 +1,5 @@
 const imagem = document.querySelector('#game-img')
 
-
 imagem.addEventListener('mouseenter', () =>{
     let vetor = [-3, 3];
     let indice = Math.floor(Math.random() * vetor.length)
