@@ -113,27 +113,27 @@ body{
 }
 
 #sessao1{
-    background: linear-gradient(to top, #157eba, #25c0a9);
+    background: linear-gradient(to bottom, #157eba, #25c0a9);
     /* background-color: #25c0a9; */
     
 }
 #sessao2{
-    background: linear-gradient(to top, #25c0a9, #60f989);
+    background: linear-gradient(to bottom, #25c0a9, #60f989);
     /* background-color: #60f989; */
 }
 #sessao3{
-    background: linear-gradient(to top, #60f989, #ffea00);
+    background: linear-gradient(to bottom, #60f989, #ffea00);
     /* background-color: #ffea00; */
 }
 #sessao4{
-    background: linear-gradient(to top, #ffea00, #ba4615);
+    background: linear-gradient(to bottom, #ffea00, #ba4615);
     /* background-color: #ba4615; */
 }
 #sessao5{
-    background: linear-gradient(to top, #ba4615, #ba159c);
+    background: linear-gradient(to bottom, #ba4615, #ba159c);
     /* background-color: #ba159c; */
 }
 #sessao6{
-    background: linear-gradient(to top, #ba159c, #115cc5);
+    background: linear-gradient(to bottom, #ba159c, #115cc5);
     /* background-color: #115cc5; */
 }
