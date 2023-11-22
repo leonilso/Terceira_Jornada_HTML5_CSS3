@@ -22,7 +22,7 @@ body{
 .cabecalho{
     background: linear-gradient(to top, #8dbeda, #357599);
     text-align: center;
-    border-bottom: 1px solid rgb(2, 36, 255);
+    border-bottom: 3px solid #fff;
 
 }
  .menu{
