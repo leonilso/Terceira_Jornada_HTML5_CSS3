@@ -76,13 +76,14 @@ body{
     display: flex;
     justify-content: center;
     margin: 0px 0px 10px 0px;
+    list-style: none;
 }
 
 .lista1{
     margin: 0px 80px 0px 40px;
 }
 
-.lista1{
+.lista2{
     margin: 0px 40px 0px 80px;
 }
 
@@ -92,13 +93,15 @@ body{
     border-radius: 4px;
     background-color: #5fc4ff;
     box-shadow: 2px 2px 2px #5fc4ff90;
+    text-decoration: none;
 }
 
-.lista1 li a{
+.lista2 li a{
     margin: 3px;
     padding: 5px;
     border-radius: 4px;
     background-color: #5fc4ff;
     box-shadow: 2px 2px 2px #5fc4ff90;
+    text-decoration: none;
     
 }
