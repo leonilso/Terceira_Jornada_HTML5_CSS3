@@ -76,11 +76,13 @@ body{
 
 .fim{
     height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
     align-items: center;
 }
 
 .listas{
-    display: flex;
     justify-content: center;
     margin: 0px 0px 10px 0px;
 }
