@@ -67,10 +67,16 @@ body{
 }
 
 .rodape{
+    display: flex;
     text-align: center;
     border-top: 3px solid #fff;
     height: 100px;
     background: linear-gradient(to bottom, #8dbeda, #357599);
+}
+
+#nome{
+    height: 100%;
+    align-items: center;
 }
 
 .listas{
