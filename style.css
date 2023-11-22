@@ -109,8 +109,8 @@ body{
 
 .linkslistas:hover{
     transition: 1s;
-    background-color: #157eba;
-    box-shadow: 6px 6px 6px #1771a690;
+    background-color: hsl(201, 100%, 96%);
+    box-shadow: 6px 6px 6px hsla(201, 100%, 94%, 0.565);
 }
 
 #sessao1{
