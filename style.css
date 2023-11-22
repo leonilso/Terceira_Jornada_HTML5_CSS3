@@ -28,7 +28,7 @@ body{
  .menu{
     /* height: 600px; */
     /* background: linear-gradient(to bottom, #8dbeda, #357599); */
-    background-color: #357599;
+    background-color: #157eba;
  }
 
 
@@ -135,6 +135,6 @@ body{
     /* background-color: #ba159c; */
 }
 #sessao6{
-    background: linear-gradient(to bottom, #ba159c, #115cc5);
+    background: linear-gradient(to bottom, #ba159c, #157eba);
     /* background-color: #115cc5; */
 }
