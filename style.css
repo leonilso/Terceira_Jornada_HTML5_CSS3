@@ -94,7 +94,7 @@ body{
     box-shadow: 2px 2px 2px #5fc4ff90;
 }
 
-.lista1{
+.lista1 li a{
     margin: 3px;
     padding: 5px;
     border-radius: 4px;
