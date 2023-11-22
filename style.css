@@ -74,7 +74,7 @@ body{
     background: linear-gradient(to bottom, #8dbeda, #357599);
 }
 
-#nome{
+.fim{
     height: 100%;
     align-items: center;
     background-color: red;
