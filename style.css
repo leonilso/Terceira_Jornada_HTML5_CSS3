@@ -112,12 +112,21 @@ body{
     box-shadow: 6px 6px 6px #1771a690;
 }
 
-/* .lista2 li a{
-    margin: 3px;
-    padding: 2px;
-    border-radius: 4px;
-    background-color: #5fc4ff;
-    box-shadow: 2px 2px 2px #5fc4ff90;
-    text-decoration: none;
-    
-} */
+#sessao1{
+    background-color: #25c0a9;
+}
+#sessao2{
+    background-color: #60f989;
+}
+#sessao3{
+    background-color: #ffea00;
+}
+#sessao4{
+    background-color: #ba4615;
+}
+#sessao5{
+    background-color: #ba159c;
+}
+#sessao6{
+    background-color: #115cc5;
+}
