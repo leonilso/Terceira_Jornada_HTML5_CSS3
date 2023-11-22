@@ -67,8 +67,6 @@ body{
 }
 
 .rodape{
-    display: flex;
-    text-align: center;
     border-top: 3px solid #fff;
     height: 100px;
     background: linear-gradient(to bottom, #8dbeda, #357599);
@@ -85,6 +83,7 @@ body{
 .listas{
     justify-content: center;
     margin: 0px 0px 10px 0px;
+    display: flex;
 }
 
 .lista1{
