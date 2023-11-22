@@ -88,12 +88,12 @@ body{
 
 
 .lista1 li{
-    margin: 6px;
+    margin: 15px;
     list-style: none;
 }
 
 .lista2 li{
-    margin: 6px;
+    margin: 15px;
     list-style: none;
 }
 .linkslistas{
@@ -108,7 +108,7 @@ body{
 
 .linkslistas:hover{
     transition: 1s;
-    background-color: hsl(202, 100%, 53%);
+    background-color: #063e5f;
     box-shadow: 6px 6px 6px #1771a690;
 }
 
