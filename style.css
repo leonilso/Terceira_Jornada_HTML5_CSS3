@@ -106,7 +106,7 @@ body{
     text-decoration: none;
 }
 
-.linkslistas :hover{
+.linkslistas:hover{
     transition: 1s;
     background-color: hsl(202, 100%, 53%);
     box-shadow: 6px 6px 6px #1771a690;
