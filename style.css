@@ -60,7 +60,7 @@ body{
 }
 #game-img{
     margin-top: 20px;
-    width: 700px;
+    width: 500px;
     transition: transform 1s;
     box-shadow: 10px 10px 10px rgba(33, 32, 32, 0.531);
 }
