@@ -8,7 +8,7 @@
 *{
     margin: 0;
     padding: 0;
-    color: #295872;
+    color: #0f1519;
 }
 
 
@@ -27,7 +27,8 @@ body{
 }
  .menu{
     /* height: 600px; */
-    background: linear-gradient(to bottom, #8dbeda, #357599);
+    /* background: linear-gradient(to bottom, #8dbeda, #357599); */
+    background-color: #357599;
  }
 
 
