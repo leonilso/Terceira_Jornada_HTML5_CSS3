@@ -87,6 +87,7 @@ body{
 }
 
 .lista1 li a{
+    margin: 3px;
     padding: 5px;
     border-radius: 4px;
     background-color: #5fc4ff;
@@ -94,6 +95,7 @@ body{
 }
 
 .lista1{
+    margin: 3px;
     padding: 5px;
     border-radius: 4px;
     background-color: #5fc4ff;
