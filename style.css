@@ -97,12 +97,19 @@ body{
     list-style: none;
 }
 .linkslistas{
+    transition: 1s;
     margin: 3px;
     padding: 5px;
     border-radius: 4px;
     background-color: #5fc4ff;
     box-shadow: 2px 2px 2px #5fc4ff90;
     text-decoration: none;
+}
+
+.linkslistas :hover{
+    transition: 1s;
+    background-color: hsl(202, 100%, 53%);
+    box-shadow: 6px 6px 6px #1771a690;
 }
 
 /* .lista2 li a{
